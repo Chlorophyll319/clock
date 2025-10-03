@@ -2,6 +2,14 @@
 
 這是一個以網頁為基礎的時間應用工具，主打簡潔美觀且實用的時鐘工具，MVP 包含：時鐘、碼表、計時器與鬧鐘功能，未來可升級為簡易時間管理系統。
 
+## 🚀 部署
+
+本專案使用 **GitHub Actions** 自動部署至 GitHub Pages。
+
+當代碼推送到 `main` 分支時，會自動觸發部署流程，將靜態文件部署到 GitHub Pages。
+
+**網址**：https://chlorophyll319.github.io/clock/
+
 ---
 
 ## 📦 MVP 功能
